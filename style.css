@@ -242,6 +242,7 @@ footer h3 {
     height: 70vh;
   }
 }
+/* media Query */
 @media (max-width: 500px) {
   html {
     font-size: 32%;
